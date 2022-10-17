@@ -12,7 +12,7 @@
 ## Installation
    N/A
 ## Usage
-   ![Screenshot](./Develop/img/screenshot.png)
+   ![Screenshot](./img/screenshot.png)
    - URL of GitHub Repo: https://github.com/Kayexie/easy-to-note
    - URL of Application: https://drive.google.com/file/d/
 ## License
