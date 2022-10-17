@@ -27,7 +27,9 @@ note.post('/', (req, res) => {
      res.json('Error in posting newNote')
      }
  })
- 
+
+
+ //get route to delect a specific notes;
 note.delete('/:id', (req, res)=> {
      console.info(`${req.method} request received for deleting note.`)
      const currentDb = fs.readFileSync('./db/db.json')//read thefile;
