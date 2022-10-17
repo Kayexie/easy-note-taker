@@ -1,4 +1,4 @@
-# Easy To Note
+# Easy Note Taker
 
 ## Description
    This Easy to Note app allows you to write, save and delete note in a very convenient way. 
