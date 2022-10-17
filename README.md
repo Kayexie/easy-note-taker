@@ -1,7 +1,8 @@
 # Easy Note Taker
 
 ## Description
-   This Easy to Note app allows you to write, save and delete note in a very convenient way. 
+   This note taker app allows you to write, save and delete note in a very convenient way. 
+   The main problem is using Heroku to deploy the app. 
 ## Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
