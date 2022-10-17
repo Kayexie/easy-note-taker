@@ -1,6 +1,6 @@
 let note = require('express').Router();
-let {writeToFile, readAndAppend, readFromFile} = require('../../../helper/fileIO');
-let uuid = require('../../../helper/uuid');
+let {writeToFile, readAndAppend, readFromFile} = require('../helper/fileIO');
+let uuid = require('../helper/uuid');
 let fs = require('fs');
 
 
