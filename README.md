@@ -14,7 +14,7 @@
    N/A
 ## Usage
    ![Screenshot](./img/screenshot.png)
-   - URL of GitHub Repo: https://github.com/Kayexie/easy-to-note
+   - URL of GitHub Repo: https://github.com/Kayexie/easy-note-taker
    - URL of Application: 
 ## License
    N/A
