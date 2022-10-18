@@ -2,7 +2,7 @@ let express = require ('express');
 let path = require ('path');
 const api = require('./routes/index');
 
-let PORT = 3001;
+let PORT = process.env.PORT || 3001;
 let app = express();
 
 //middleware
