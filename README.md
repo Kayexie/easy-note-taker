@@ -15,7 +15,7 @@
 ## Usage
    ![Screenshot](./img/screenshot.png)
    - URL of GitHub Repo: https://github.com/Kayexie/easy-note-taker
-   - URL of Application: https://infinite-woodland-89230.herokuapp.com/notes
+   - URL of Application: https://infinite-woodland-89230.herokuapp.com/
 ## License
    N/A
 ## Contributingß
